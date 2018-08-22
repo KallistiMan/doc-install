@@ -19,7 +19,7 @@ GLPI requires a web server that supports PHP, like:
 PHP
 ---
 
-As of 9.2 release, GLPI requires `PHP <http://php.net>`_ 5.6 or more recent.
+As of 9.2 release, GLPI requires `PHP <http://php.net>`_ 5.6 or more recent. Note that GLPI is currently not compatible with PHP 7.x.
 
 .. note::
 
